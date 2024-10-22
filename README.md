@@ -4,6 +4,8 @@
 
 In this project, I designed an interactive Tableau dashboard to analyze Amazon's sales data, providing key insights into sales quantity, category performance, and shipping status. This dashboard is driven by several critical KPIs for better decision-making:
 
+![Dasgboard](https://github.com/Sakshiistwal13/Amazon-Sales-Analysis-Dashboard/blob/main/Amazon.png)
+
 💰 Key KPIs:
 
 Total Quantity Sold: 116,649 units
