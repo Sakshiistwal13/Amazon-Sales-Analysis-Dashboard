@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-The Amazon Sales Analysis Tableau Dashboard is a powerful visualization tool designed to uncover valuable insights from one of the world's largest e-commerce platforms. In the ever-evolving world of online retail, staying on top of sales trends, customer behavior, and product performance is crucial for business growth. This dashboard enables stakeholders to dive deep into Amazon's vast sales data, providing a clear and interactive way to monitor revenue, identify best-selling products, track customer preferences, and optimize inventory management. Through this comprehensive analysis, businesses can make data-driven decisions to stay competitive and agile in a dynamic market.
+The Amazon Sales Analysis Tableau Dashboard is a powerful visualization tool designed to uncover valuable insights from one of the world's largest e-commerce platforms. In the ever-evolving world of online retail, staying on top of sales trends, customer behavior, and product performance is crucial for business growth. This dashboard enables stakeholders to dive deep into Amazon's vast sales data, providing a clear and interactive way to monitor revenue, identify best-selling products, track customer preferences, and optimize inventory management. Through this comprehensive analysis, businesses can make data-driven decisions.
 
 
 ## Steps followed:
