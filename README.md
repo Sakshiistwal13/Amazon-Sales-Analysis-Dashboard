@@ -120,5 +120,5 @@ State-Specific Promotions:
 
 ## Conclusion
 
-This Tableau dashboard showcases how KPI-driven data visualization can transform raw data into actionable insights on sales trends, shipping performance, and customer preferences, enhancing business decision-making in e-commerce.
-
+This Tableau dashboard showcases how KPI-driven data visualization can transform raw data into actionable insights on sales trends, shipping performance, and customer preferences, enhancing business decision-making in e-commerce. 
+My live Power BI dashboard can be downloaded from the pbix file above for more detailed insights and interactions with the dashboard.
