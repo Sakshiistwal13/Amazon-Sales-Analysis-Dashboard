@@ -123,3 +123,4 @@ State-Specific Promotions:
 This Tableau dashboard showcases how KPI-driven data visualization can transform raw data into actionable insights on sales trends, shipping performance, and customer preferences, enhancing business decision-making in e-commerce.
  
 My live Tableau dashboard can be downloaded from the twb file above for more detailed insights and interactions with the dashboard.
+Or you can visit Tableau Public from this link and interact with it-  https://public.tableau.com/app/profile/sakshi.istwal4687/viz/Myamazon/Dashboard1
